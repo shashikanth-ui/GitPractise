@@ -1,0 +1,15 @@
+body{
+    background-color: bisque;
+}
+h1{
+    color: aqua;
+}
+.redirect{
+    font-size: larger;
+    height: 100px;
+    width: 100px;
+    border-radius: 999px;
+    border: none;
+    background-color: brown;
+    color: aliceblue;
+}
